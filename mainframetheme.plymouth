@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=mainframetheme
+Description=Mainframe Hackers Theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/mainframetheme
+ScriptFile=/usr/share/plymouth/themes/mainframetheme/animation.script
